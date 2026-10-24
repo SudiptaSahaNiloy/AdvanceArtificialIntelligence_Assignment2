@@ -1,0 +1,10 @@
+{
+  "scenario": "Skincare and cosmetics product-image editing",
+  "seed": 42,
+  "prompt": "Change only the label colour of the serum bottle to muted sage green. Preserve the exact bottle silhouette, cap, proportions, label placement, text layout, lighting, shadows, camera angle, background and composition. Keep the result photorealistic as premium skincare product photography.",
+  "baseline_model": "black-forest-labs/FLUX.1-Kontext-dev",
+  "gpu": "NVIDIA RTX PRO 6000 Blackwell Server Edition",
+  "flux_runtime_seconds": 20.34,
+  "flux_peak_memory_gib": 33.83,
+  "personalize_anything_completed": true
+}

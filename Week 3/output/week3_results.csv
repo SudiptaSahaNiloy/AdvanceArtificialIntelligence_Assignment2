@@ -1,0 +1,3 @@
+method,runtime_seconds,peak_gpu_memory_gib,instruction_success_1to5,identity_preservation_1to5,composition_preservation_1to5,visual_quality_1to5,notes
+FLUX.1 Kontext Dev,20.34,33.83,5,5,5,5,Record errors and exact inference settings.
+Personalize Anything (AAAI 2026),27.11,37.34,4,4,5,4,Calculated dynamically using max_memory_allocated.
